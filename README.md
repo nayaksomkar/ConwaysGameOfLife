@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-![Preview](assets\screenshots\preview.png)
+![Preview](assets/screenshots/preview.png)
 
 A simple, modern implementation with colored cells and adaptive UI.
 
