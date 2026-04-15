@@ -29,7 +29,7 @@ ENV/
 .venv/
 
 # IDE - JetBrains, VS Code, etc.
-.idea/
+.idea
 .vscode/
 *.swp
 *.swo
