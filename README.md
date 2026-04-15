@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-![Preview](assets/screenshots/preview.png)
+![Preview](https://raw.githubusercontent.com/nayaksomkar/ConwaysGameOfLife/main/assets/screenshots/preview.png)
 
 A simple, modern implementation with colored cells and adaptive UI.
 
